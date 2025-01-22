@@ -1,5 +1,4 @@
 
-```markdown
 # Tableau Projects !
 This repository contains Tableau dashboards, visualizations, and data analysis projects I have created.
 
@@ -98,5 +97,3 @@ Tableau is a leading data visualization and business intelligence tool known for
 4. Connect your own data sources to create custom dashboards.
 
 ---
-```
-
