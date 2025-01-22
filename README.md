@@ -51,7 +51,7 @@ This project focuses on analyzing used car sales data through an interactive Tab
 - Correlation analysis between pricing factors
 - Forecasting future pricing trends
 
-![Automotive Trends](https://github.com/SaiKiranNandipati/TableauDashBoards/blob/main/assets/P2.png)
+![Automotive Trends](https://github.com/SaiKiranNandipati/TableauDashBoards/blob/main/assets/p2.png)
 
 ---
 
@@ -74,7 +74,7 @@ This project visualizes and analyzes call center data using an interactive Table
 - Performance metrics by location
 - Channel comparisons (call center, email, chat, web)
 
-![Call Center Analysis](https://github.com/SaiKiranNandipati/TableauDashBoards/blob/main/assets/P3.png)
+![Call Center Analysis](https://github.com/SaiKiranNandipati/TableauDashBoards/blob/main/assets/p3.png)
 
 ---
 
